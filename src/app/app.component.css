@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #todo-list {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .todo-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .todo-item input {
+    width: 70%;
+  }
+  
+  .todo-item button {
+    margin-left: 10px;
+  }
+  
